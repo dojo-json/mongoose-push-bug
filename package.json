@@ -1,0 +1,26 @@
+{
+  "name": "mongoose-push-bug",
+  "version": "1.0.0",
+  "private": true,
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec index.js",
+    "start": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dojo-json/mongoose-push-bug.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dojo-json/mongoose-push-bug/issues"
+  },
+  "homepage": "https://github.com/dojo-json/mongoose-push-bug#readme",
+  "dependencies": {
+    "mocha": "^5.0.0",
+    "mongoose": "^5.0.2"
+  }
+}
